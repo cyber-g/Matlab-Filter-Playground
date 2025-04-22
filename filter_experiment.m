@@ -20,6 +20,9 @@
 % https://fr.mathworks.com/matlabcentral/fileexchange/4908-m-file-header-template
 % which is adapted here for the purpose of this example.
 % 
+% Special thanks to the unkown author of:
+% https://www.dsprelated.com/freebooks/filters/Matrix_Filter_Representations.html
+% 
 %------------- BEGIN CODE --------------
 
 % Design a simple FIR low pass filter
